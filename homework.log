@@ -1,0 +1,25 @@
+Дата и время вызова функции - 2023-03-26 14:42:15.529349
+Название функции - flat_generator
+Аргументы функции - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+Значение функции - <generator object test_3.<locals>.flat_generator at 0x10cd10c80>
+
+Дата и время вызова функции - 2023-03-26 14:42:15.529687
+Название функции - flat_generator
+Аргументы функции - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+Значение функции - <generator object test_3.<locals>.flat_generator at 0x10cd10c80>
+
+Дата и время вызова функции - 2023-03-26 14:42:15.529802
+Название функции - flat_generator
+Аргументы функции - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+Значение функции - <generator object test_3.<locals>.flat_generator at 0x10cd10c80>
+
+Дата и время вызова функции - 2023-03-26 14:42:15.529898
+Название функции - FlatIterator
+Аргументы функции - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+Значение функции - <__main__.test_3.<locals>.FlatIterator object at 0x10cd67f70>
+
+Дата и время вызова функции - 2023-03-26 14:42:15.530035
+Название функции - FlatIterator
+Аргументы функции - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+Значение функции - <__main__.test_3.<locals>.FlatIterator object at 0x10cd67df0>
+
